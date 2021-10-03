@@ -6,17 +6,6 @@ namespace task
     {
         static void Main(string[] args)
         {
-            #region
-            //int n = 10;
-            //int count = 0;
-
-            //while (n >= 1) 
-            //{
-            //    n /= 10;
-            //    count++;
-            //}
-            //Console.WriteLine(count);
-            #endregion
 
             #region // Tek ve Cut
             //int n = 10;
@@ -180,7 +169,6 @@ namespace task
             //}
             #endregion
 
-
             #region // mertebe sayi (For'nan)
 
             //int n = 123456789; 
@@ -224,14 +212,17 @@ namespace task
             //}
             #endregion
 
-            int[] arr = { 2 };
-            int sum = 0;
+            #region // bilmirem ))
 
-            for (int i = 0; i < arr.Length; i++)
-            {
-                sum += arr[i];
-            }
-            Console.WriteLine(sum);
+            //int[] arr = { 2, 3, 1, 2, 3, 4, 3 };
+            //int sum = 0;
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    sum += arr[i];
+            //}
+            //Console.WriteLine(sum);
+            #endregion
 
         }
     }
