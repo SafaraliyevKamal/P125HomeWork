@@ -1,0 +1,13 @@
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/bin/Debug/netcoreapp3.1/task.deps.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/bin/Debug/netcoreapp3.1/task.runtimeconfig.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/bin/Debug/netcoreapp3.1/task.runtimeconfig.dev.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/bin/Debug/netcoreapp3.1/task.dll
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/bin/Debug/netcoreapp3.1/task.pdb
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.csproj.AssemblyReference.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.AssemblyInfoInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.AssemblyInfo.cs
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.csproj.CoreCompileInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.dll
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.pdb
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/task/task/obj/Debug/netcoreapp3.1/task.genruntimeconfig.cache
