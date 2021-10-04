@@ -1,0 +1,13 @@
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.AssemblyReference.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache
