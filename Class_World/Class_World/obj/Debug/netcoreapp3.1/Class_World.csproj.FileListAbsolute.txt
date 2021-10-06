@@ -1,0 +1,13 @@
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.csproj.AssemblyReference.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.AssemblyInfoInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.AssemblyInfo.cs
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.csproj.CoreCompileInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/bin/Debug/netcoreapp3.1/Class_World.deps.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/bin/Debug/netcoreapp3.1/Class_World.runtimeconfig.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/bin/Debug/netcoreapp3.1/Class_World.runtimeconfig.dev.json
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/bin/Debug/netcoreapp3.1/Class_World.dll
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/bin/Debug/netcoreapp3.1/Class_World.pdb
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.dll
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.pdb
+/Users/jeyhunsafaraliyev/Desktop/P125 Home/Class_World/Class_World/obj/Debug/netcoreapp3.1/Class_World.genruntimeconfig.cache
